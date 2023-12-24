@@ -1,0 +1,1 @@
+# scfx-mongodb-atlas-stack
